@@ -148,8 +148,11 @@ button:focus {
   color: var(--clr-black);
 }
 
-.warning {
-  color: var(--clr-warning);
+.output {
   font-weight: 500;
   font-size: var(--fs-heading-med);
+}
+
+.warning {
+  color: var(--clr-warning);
 }
